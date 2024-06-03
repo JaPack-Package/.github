@@ -1,4 +1,4 @@
-JaPack - the better Package Manager for macOS (Currently Developing)
+Jaackage - the better Package Manager for macOS (Currently Developing)
 
 We hope: A very flexable and low invasiveness package manager. 
 
